@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12500,
+      "createdAt": "2023-11-07T13:33:25.550Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambugrer",
+      "type": "outcome",
+      "category": "Alimetacao",
+      "price": 50,
+      "createdAt": "2023-11-07T13:33:25.550Z"
+    },
+    {
+      "id": 3,
+      "description": "Batata",
+      "type": "outcome",
+      "category": "Alimetacao",
+      "price": 50,
+      "createdAt": "2023-11-07T13:33:25.550Z"
+    },
+    {
+      "description": "Academia",
+      "price": 75,
+      "category": "Exercicio",
+      "type": "outcome",
+      "createdAt": "2023-11-07T16:47:43.802Z",
+      "id": 4
+    },
+    {
+      "description": "Academia",
+      "price": 75,
+      "category": "Exercicio",
+      "type": "outcome",
+      "createdAt": "2023-11-07T16:47:51.396Z",
+      "id": 5
+    },
+    {
+      "description": "Roupa",
+      "price": 150,
+      "category": "Presente",
+      "type": "income",
+      "createdAt": "2023-11-07T17:06:33.505Z",
+      "id": 6
+    },
+    {
+      "description": "Blusa",
+      "price": 150,
+      "category": "",
+      "type": "outcome",
+      "createdAt": "2023-11-07T17:07:01.688Z",
+      "id": 7
+    },
+    {
+      "description": "Hambuger",
+      "price": 52,
+      "category": "Lanche",
+      "type": "outcome",
+      "createdAt": "2023-11-07T17:18:54.290Z",
+      "id": 8
+    }
+  ]
+}
